@@ -1,0 +1,29 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namste react guided by Akshay Saini and doneby Shreea.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreeaSri/NamsteReactAssignmentQuestions.git"
+  },
+  "author": "\"Shreea Sri\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreeaSri/NamsteReactAssignmentQuestions/issues"
+  },
+  "homepage": "https://github.com/ShreeaSri/NamsteReactAssignmentQuestions#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
